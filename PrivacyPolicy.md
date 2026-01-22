@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** January 15, 2026  
+**Last Updated:** January 22, 2026  
 **App Name:** BudgetNotes  
 **App ID:** com.budget.notes  
 
