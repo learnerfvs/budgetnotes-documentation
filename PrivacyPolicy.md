@@ -294,3 +294,6 @@ This Privacy Policy is designed to comply with:
 ---
 
 *This Privacy Policy is effective as of January 15, 2026.*
+
+Terms of Use note:
+Any loss of data due to app malfunctioning, device malfunctioning or due to any reason whastsoever, will solely be user's responsibility and liability.  The developer takes no responsibility or provides no guarantee for the app. User must use it at his or her own risk. 
