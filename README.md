@@ -7,6 +7,7 @@ Budgeting as simple as writing a Note ✍️!
 [<img width="150" height="200" alt="5a902dbf7f96951c82922875(1)" src="https://github.com/user-attachments/assets/51232952-dc82-4e6b-b946-f885514fa97b" />
 ](https://play.google.com/store/apps/details?id=com.budget.notes) [<img width="130" height="200" alt="download-gio-big-w" src="https://github.com/user-attachments/assets/534eccc4-6b4a-46fa-bf93-d5c8c69d7f55" />
 ](https://budgetnotes.en.uptodown.com/android)
+<a href="https://www.producthunt.com/products/budgetnotes?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-budgetnotes" target="_blank" rel="noopener noreferrer"><img alt="BudgetNotes - Budgeting made as simple as writing a note! | Product Hunt" width="210" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1072686&amp;theme=light&amp;t=1770703419890"></a>
 
 ## Screenshots
 <img width="225" height="1024" alt="First page(1)" src="https://github.com/user-attachments/assets/c293eeb2-0551-4505-96b6-ce65205d81df" />
