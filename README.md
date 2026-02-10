@@ -1,11 +1,19 @@
-# BudgetNotes
+ <img width="100" height="500" alt="BudgetNotes Logo" src="https://github.com/user-attachments/assets/dda0a9b8-07a5-4f73-af79-797b62fc2608" />
+ 
+ # [BudgetNotes](https://play.google.com/store/apps/details?id=com.budget.notes)
 
-Budgeting made effortless! Just write notes. Track expenses inline. 100% private & offline.
+Budgeting as simple as writing a Note ✍️!
 
----
+[<img width="150" height="200" alt="5a902dbf7f96951c82922875(1)" src="https://github.com/user-attachments/assets/51232952-dc82-4e6b-b946-f885514fa97b" />
+](https://play.google.com/store/apps/details?id=com.budget.notes) [<img width="130" height="200" alt="download-gio-big-w" src="https://github.com/user-attachments/assets/534eccc4-6b4a-46fa-bf93-d5c8c69d7f55" />
+](url)
 
+## Screenshots
+<img width="225" height="1024" alt="First page(1)" src="https://github.com/user-attachments/assets/c293eeb2-0551-4505-96b6-ce65205d81df" />
+<img width="225" height="1024" alt="2nd page" src="https://github.com/user-attachments/assets/7e6718ee-ce94-47fe-8e22-5fc7c0aa0a62" />
+<img width="225" height="1024" alt="3rd page" src="https://github.com/user-attachments/assets/d7efefbf-4645-441e-a0e3-a8ab6abb2519" />
+<img width="225" height="1024" alt="4th page" src="https://github.com/user-attachments/assets/e5b80cb5-22ef-419a-ba3a-86ebea1b95be" />
 
----
 
 ### 📝 Budgeting Shouldn't Feel Like Math Class! 📝
 
@@ -17,17 +25,15 @@ Endless spreadsheets, complex apps with 50 settings, accounts to create, passwor
 
 ---
 
-### ✨ Meet BudgetNotes - The Least Effort Budget App Ever! ✨
+### ✨ Meet [BudgetNotes](https://play.google.com/store/apps/details?id=com.budget.notes) - The Least Effort Budget App Ever! ✨
 
 BudgetNotes combines the simplicity of note-taking with powerful expense tracking. No forms to fill, no complicated setup, no learning curve. Just write!
 
----
-
-## 🎯 How It Works (It's Ridiculously Simple!)
+### 🎯 How It Works (It's Ridiculously Simple!)
 
 **Step 1:** Create a note → Give it a budget → Done! 🎉
 
-**Step 2:** Add expenses inline using natural syntax:
+**Step 2:** Add expenses inline using natural format:
 
 ```
 - 15 Groceries
@@ -41,46 +47,22 @@ That's it. Seriously. That's all there is to it.
 
 ---
 
-## 🚀 Features That Actually Make Sense
+### 🚀 Features That Actually Make Sense
+☑️ Notes as Budgets🟰 Every note is a budget. Simple!
 
-### 📌 Notes as Budgets
+☑️ Inline expense tracking🟰Just type, no forms
 
-Every note is a budget. Set a budget amount, time period, and start tracking expenses. Simple as that!
+☑️ Section-based organization🟰Like a digital notebook
 
-### ✏️ Inline Expense Tracking
+☑️ All-currency support🟰USD, EUR, INR & custom symbols
 
-No switching screens or opening forms. Just type `- 15 Item` right in your note and watch the magic happen!
+☑️ Backup & restore🟰 Export and restore anytime. Offline. Private.
 
-### 📊 Visual Progress Tracking
+☑️ Soft pastel colors that make budgeting feel calm, pleasant, and stress-free.
 
-See exactly where you stand with beautiful, color-coded progress bars:
-
-- 🟢 Green (≤70%) - You're on track!
-- 🟠 Orange (71-90%) - Watch your spending
-- 🔴 Red (>90%) - Time to slow down!
-
-### 📁 Section-Based Organization
-
-Organize your budgets into colorful sections like Microsoft OneNote. Perfect for separating monthly budgets, project expenses, or savings goals!
-
-### 💱 Multi-Currency Support
-
-USD, EUR, GBP, JPY, INR, or create your own custom currency symbol!
-
-### 🎨 8 Progress Visualization Styles
-
-From sleek bars to elegant watermarks - customize how you see your budget progress!
-
-### 💾 Backup & Restore
-
-Export all your data as a JSON file. Keep it safe, restore anytime, or transfer to another device!
+☑️ True Behavior Coaching Elements that Nudge you towards better Financial Decisions
 
 ---
-
-## 🔒 Your Data. Your Device. Your Business. 🔒
-
-We know privacy matters. That's why BudgetNotes is built with **privacy-first architecture**:
-
 ### 🛡️ 100% Offline & Local Storage
 
 - **No cloud servers** - Your data NEVER leaves your device
@@ -92,6 +74,7 @@ We know privacy matters. That's why BudgetNotes is built with **privacy-first ar
 
 When you export your data, you can password-protect it. Your backup file stays encrypted and only YOU can access it.
 
+---
 ### 🚫 No Ads, No Tracking, No Surprises
 
 - No advertisements
@@ -101,7 +84,7 @@ When you export your data, you can password-protect it. Your backup file stays e
 
 ---
 
-## 💡 Why BudgetNotes? Because Life's Hard Enough Already!
+### 💡 Why BudgetNotes? Because Life's Hard Enough Already!
 
 
 | Other Apps 😩             | BudgetNotes 😊      |
@@ -116,7 +99,7 @@ When you export your data, you can password-protect it. Your backup file stays e
 
 ---
 
-## 🎯 Perfect For...
+### 🎯 Perfect For...
 
 - 🏠 **Monthly household budgets** - Track groceries, utilities, subscriptions
 - 🎓 **Students** - Manage expenses on a tight budget
@@ -132,11 +115,11 @@ When you export your data, you can password-protect it. Your backup file stays e
 ---
 
 
-## 📥 Download Now & Start Budgeting the Easy Way!
+### 📥 [Download Now](https://play.google.com/store/apps/details?id=com.budget.notes) & Start Budgeting the Easy Way!
 
 Stop overcomplicating your finances. Start budgeting with notes today!
 
-**BudgetNotes** - Because budgeting should be effortless, not exhausting.
+**[BudgetNotes](https://play.google.com/store/apps/details?id=com.budget.notes)** - Because budgeting should be effortless, not exhausting.
 
 ---
 
@@ -145,32 +128,16 @@ Stop overcomplicating your finances. Start budgeting with notes today!
 ### 📱 App Info
 
 - **Category:** Finance
-- **Size:** ~15 MB
+- **Size:** ~10 MB
 - **Requires:** Android 8.0+
 - **In-App Purchases:** Pro upgrade (optional)
 - **Permissions:** Minimal (storage for backups only)
+- **Play Store Link:** [Here](https://play.google.com/store/apps/details?id=com.budget.notes)
 
 ---
 
 ### 💬 Have Questions?
 
-We'd love to hear from you! Reach out with feedback, suggestions, or just to say hi.
+I'd love to hear from you! Reach out with send feedback button inside the app!
 
----
-
-*BudgetNotes - Budgeting made simple. Privacy first. Always.* 🎉
-
----
-
-## 📊 Screenshots Descriptions (For Reference)
-
-1. **Home Screen:** Recent notes with beautiful progress indicators
-2. **Notes Page:** Color-coded sections with organized budget cards
-3. **Note Editor:** Inline expense tracking with real-time calculations
-4. **Settings:** Clean, organized settings with collapsible sections
-5. **Progress Styles:** Showcase of 8 different visualization options
-6. **Backup Screen:** Export your data with one tap
-
----
-
-*Last Updated: January 2026*
+*[BudgetNotes](https://play.google.com/store/apps/details?id=com.budget.notes) - Budgeting made as simple as writing a Note✍️* 
