@@ -3,6 +3,7 @@
 **Last Updated:** January 22, 2026  
 **App Name:** BudgetNotes  
 **App ID:** com.budget.notes  
+**Developed by:** FenilVS
 
 ---
 
