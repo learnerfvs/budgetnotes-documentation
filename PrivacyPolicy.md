@@ -7,9 +7,14 @@
 
 ---
 
+## Definitions
+“App” refers to BudgetNotes.
+“User” refers to any individual using the App.
+“Personal Data” refers to information that identifies an individual.
+
 ## 1. Introduction
 
-Welcome to BudgetNotes. This Privacy Policy explains how BudgetNotes handles your data and protect your privacy when using it. 
+Welcome to BudgetNotes. This Privacy Policy explains how BudgetNotes handles your data and protects your privacy when using it. 
 
 **BudgetNotes is designed to be completely offline.** Your data never leaves your device except for license verification purposes.
 
@@ -27,17 +32,15 @@ BudgetNotes stores the following data **locally on your device only**:
 - **Usage History:** Note title autocomplete history (to provide suggestions)
 - **Section Data:** Section titles, colors, period types, and ordering
 
-**All of this data is stored in your device's IndexedDB and never transmitted to any server.**
+All user-generated data is stored locally in your device’s IndexedDB and is not intentionally transmitted to external servers.
 
 ### 2.2. License Verification Data
 
-The only time BudgetNotes uses an internet connection is for:
+The app does not intentionally transmit user data except as described in this policy.:
 
 - **License Key Verification:** When you purchase the Pro version, the app verifies your license key with Google Play Billing API and RevenueCat stores this information for future authentication purposes. 
-- **Minimal Transaction Data:** Only the license key and purchase status are transmitted (no personal information, no budget data, no usage data)
-
-**This is the ONLY network activity performed by the app.**
-
+- Google Play Billing and RevenueCat may process transaction-related information necessary to validate purchases. Such processing is governed by their respective privacy policies.
+- [Google Privacy Policy](https://policies.google.com/privacy?hl=en-US), [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy/)
 ---
 
 ## 3. How We Use Your Data
@@ -60,7 +63,7 @@ License verification is used **solely for**:
 - Ensuring you have access to premium features
 - Preventing unauthorized use of paid features
 
-**No budget data, usage data, or personal information is transmitted during license verification.**
+The app is designed to store data locally on your device and does not intentionally transmit user-generated content to external servers.
 
 ---
 
@@ -71,10 +74,13 @@ License verification is used **solely for**:
 BudgetNotes is built with an **offline-first architecture**:
 
 - ✅ All data is stored locally in IndexedDB (browser-native database)
+- ✅ Data is stored using local browser-based storage mechanisms (IndexedDB) within the app environment.
 - ✅ No cloud storage or external servers are used
 - ✅ No data synchronization with any service
 - ✅ No third-party analytics or tracking services
 - ✅ No data collection for marketing purposes
+- ✅ The app does not use crash reporting or error tracking services.
+
 
 ### 4.2. Backup and Restore
 
@@ -121,12 +127,11 @@ BudgetNotes offers optional backup encryption:
 
 ### 5.3. Google Play Billing
 
-The only third-party services we use is **Google Play Billing** and **RevenueCat**:
+The third-party services we use are **Google Play Billing** and **RevenueCat**:
 
-- Used **only** for Pro version license verification
-- Transmits **only** license key and purchase status
-- No personal information, budget data, or usage data is shared
-- Google's privacy policy applies to license verification transactions
+- Used for Pro version license verification
+- BudgetNotes does not intentionally collect personal data such as name, email address, phone number, or location.
+- Google's privacy policy applies to license verification transactions.
 
 ---
 
@@ -201,9 +206,9 @@ To purchase the Pro version, you must:
 
 ### 9.1. Minimal Network Activity
 
-BudgetNotes uses the internet **only for**:
+BudgetNotes intentionally uses the internet for:
 
-- License key verification (Pro version only)
+- License key verification (Pro version)
 - App updates (through Google Play Store)
 
 ### 9.2. Offline Functionality
@@ -228,7 +233,7 @@ We implement reasonable security measures to protect your data:
 - **Local Storage:** All data is stored on your device only
 - **IndexedDB:** Uses browser-native secure database
 - **Optional Encryption:** Backup files can be password-protected
-- **No External Transmission:** No data is transmitted except for license verification
+- **External Transmission:** The app is designed to store data locally on your device and does not intentionally transmit user-generated content to external servers.
 - **No Remote Access:** No remote access or cloud synchronization
 
 **However, please note:**
@@ -240,19 +245,7 @@ We implement reasonable security measures to protect your data:
 
 ---
 
-## 11. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will:
-
-- Notify users of significant changes through the app
-- Update the "Last Updated" date at the top of this policy
-- Post the updated policy within the app
-
-**We encourage you to review this policy periodically.**
-
----
-
-## 12. Contact Information
+## 11. Contact Information
 
 If you have questions about this Privacy Policy or how we handle your data, please contact us:
 
@@ -262,7 +255,7 @@ If you have questions about this Privacy Policy or how we handle your data, plea
 
 ---
 
-## 13. Summary of Key Points
+## 12. Summary of Key Points
 
 | Aspect | Status |
 |--------|--------|
@@ -276,12 +269,12 @@ If you have questions about this Privacy Policy or how we handle your data, plea
 | **Network Usage** | ✅ Only for license verification |
 | **Backup Location** | ✅ Local device storage only |
 | **Restore Location** | ✅ Local device storage only |
-| **Personal Info** | ❌ No personal information collected |
+| **Personal Info** | ❌ BudgetNotes does not intentionally collect personal data such as name, email address, phone number, or location. |
 | **Data Encryption** | ✅ Optional backup encryption available |
 
 ---
 
-## 14. Google Play Store Compliance
+## 13. Google Play Store Compliance
 
 This Privacy Policy is designed to comply with:
 
@@ -290,11 +283,29 @@ This Privacy Policy is designed to comply with:
 - Google Play Families Policy
 - App Privacy Requirements on Google Play
 
-**We are committed to transparency and user privacy.**
+## 14. Legal Basis for Processing
+
+Since BudgetNotes operates locally and does not collect personal data, no personal data is processed by the developer. License verification is processed based on contractual necessity.
+
+## 15. Jurisdiction
+
+This Privacy Policy shall be governed by the laws of India, without regard to conflict of law principles. Any disputes arising out of this Privacy Policy shall be subject to the exclusive jurisdiction of the courts located in India.
+
+
+## 16. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Updated versions will be posted within the app and the “Last Updated” date will be revised accordingly. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+## 17. Severability Clause
+
+If any provision of this Privacy Policy is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+## 18. Limitation of Liability Cap
+
+In no event shall total liability exceed the amount paid by the user for the Pro version. If no amount has been paid, liability shall be limited to INR 1,000 or the minimum amount permitted by applicable law.
 
 ---
 
-*This Privacy Policy is effective as of January 15, 2026.*
-
 Terms of Use note:
-Any loss of data due to app malfunctioning, device malfunctioning or due to any reason whastsoever, will solely be user's responsibility and liability.  The developer takes no responsibility or provides no guarantee for the app. User must use it at his or her own risk. 
+The app is provided “as is” without warranties of any kind. To the maximum extent permitted by applicable law, the developer shall not be liable for indirect, incidental, or consequential damages arising from use of the app.
+Nothing in this policy limits liability where such limitation is prohibited by law.
