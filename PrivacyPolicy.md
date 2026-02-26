@@ -9,14 +9,16 @@
 
 ## Definitions
 “App” refers to BudgetNotes.
+
 “User” refers to any individual using the App.
+
 “Personal Data” refers to information that identifies an individual.
 
 ## 1. Introduction
 
 Welcome to BudgetNotes. This Privacy Policy explains how BudgetNotes handles your data and protects your privacy when using it. 
 
-**BudgetNotes is designed to be completely offline.** Your data never leaves your device except for license verification purposes.
+BudgetNotes is designed to operate offline. User-generated data remains on your device and is not intentionally transmitted to external servers, except for license verification.
 
 ---
 
