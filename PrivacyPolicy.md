@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** January 22, 2026  
+**Last Updated:** February 26, 2026  
 **App Name:** BudgetNotes  
 **App ID:** com.budget.notes  
 **Developed by:** FenilVS
@@ -9,7 +9,7 @@
 
 ## 1. Introduction
 
-Welcome to BudgetNotes. This Privacy Policy explains how we handle your data and protect your privacy when using our application. We are committed to maintaining the highest standards of data protection and transparency.
+Welcome to BudgetNotes. This Privacy Policy explains how BudgetNotes handles your data and protect your privacy when using it. 
 
 **BudgetNotes is designed to be completely offline.** Your data never leaves your device except for license verification purposes.
 
@@ -33,7 +33,7 @@ BudgetNotes stores the following data **locally on your device only**:
 
 The only time BudgetNotes uses an internet connection is for:
 
-- **License Key Verification:** When you purchase the Pro version, the app verifies your license key with Google Play Billing API
+- **License Key Verification:** When you purchase the Pro version, the app verifies your license key with Google Play Billing API and RevenueCat stores this information for future authentication purposes. 
 - **Minimal Transaction Data:** Only the license key and purchase status are transmitted (no personal information, no budget data, no usage data)
 
 **This is the ONLY network activity performed by the app.**
@@ -121,7 +121,7 @@ BudgetNotes offers optional backup encryption:
 
 ### 5.3. Google Play Billing
 
-The only third-party service we use is **Google Play Billing**:
+The only third-party services we use is **Google Play Billing** and **RevenueCat**:
 
 - Used **only** for Pro version license verification
 - Transmits **only** license key and purchase status
